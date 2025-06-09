@@ -1,12 +1,28 @@
-# React + Vite
+# JobTrackr – Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern job application tracker built with **React**, **Tailwind CSS**, and **Vite**.
 
-Currently, two official plugins are available:
+## 🔧 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React (Vite)
+- Tailwind CSS
+- GitHub for version control
+- Designed for integration with Django + Gmail API backend
 
-## Expanding the ESLint configuration
+## 🚀 Features (Planned)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Job application dashboard
+- Status filtering and color tagging
+- Gmail integration to auto-update job statuses
+- Resume upload and follow-up reminders
+
+## 🛠️ Setup
+
+```bash
+npm install
+npm run dev
+```
+
+## 📦 Contributing
+
+WIP – This is an evolving solo project built for learning and showcasing.
